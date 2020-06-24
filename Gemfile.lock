@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    rack (2.2.2)
+    rack (2.2.3)
     rake (13.0.1)
 
 PLATFORMS
@@ -10,4 +10,3 @@ PLATFORMS
 DEPENDENCIES
   rack
   rake
-
