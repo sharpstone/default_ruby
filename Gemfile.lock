@@ -12,6 +12,3 @@ DEPENDENCIES
   rack
   rake
   webrick
-
-BUNDLED WITH
-   2.5.23
